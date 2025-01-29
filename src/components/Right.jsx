@@ -6,8 +6,7 @@ const Right = () => {
       <h1>Something Cool</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda iusto
-        nemo soluta ab in nisi mollitia quas eos nam, consequuntur libero.
-        Molestiae consequuntur natus in ratione iure iusto eveniet repellendus.
+        nemo soluta ab in nisi mollitia quas 
       </p>
     </div>
   );
