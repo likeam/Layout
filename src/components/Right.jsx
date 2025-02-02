@@ -4,7 +4,7 @@ const Right = () => {
   return (
     <div className="bg-red-400">
       <h1>Something Cool</h1>
-      <p>Lorem ipsum</p>
+      <p>Hello to everyone</p>
     </div>
   );
 };
